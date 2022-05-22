@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(86, 201, 135);
+}
+
+.titulo-site{
+    background-color: aliceblue;
+}
+
+.container{
+    background-color: rgb(161, 222, 168);
+    margin-top: 100px;
+}
